@@ -25,7 +25,8 @@ Sentra AI is an AI-powered platform designed to streamline workflows, analyze da
 
 ---
 ## Architecture Overview:
-Link architect: architect.pdf
+Link architect: Research paper/AI doc Agent Research.pdf
+<img width="972" height="721" alt="image" src="https://github.com/user-attachments/assets/dfba1ee4-5540-40d8-8a83-db5441ef3c46" />
 
 Sentra AI follows a modular architecture:
 - Data ingestion and preprocessing layer  
@@ -68,3 +69,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 references:
 https://github.com/Yonom/assistant-ui
+
